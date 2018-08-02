@@ -1,0 +1,6 @@
+{
+  "entry": {
+    "index": "./src/index.js",
+    "counter": "./src/counter.js"
+  }
+}
